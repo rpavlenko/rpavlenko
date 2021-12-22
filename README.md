@@ -2,7 +2,7 @@
 
 Currently I’m learning React.
 
-##### Languages and tools: 
+#### Languages and tools: 
 - HTML, CSS, JavaScript, Sass
 
 <hr>
