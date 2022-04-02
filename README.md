@@ -6,7 +6,7 @@ Currently I’m learning React, Node.js & TypeScript
 - HTML
 - CSS, Sass, styled-components
 - JavaScript, TypeScript, React
-- Node.js basics
+- Node.js basics + MongoDB
  
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=rpavlenko&theme=cobalt2&show_icons=true">
