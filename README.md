@@ -5,7 +5,8 @@ Currently I’m learning React, Node.js & TypeScript
 #### Languages and tools: 
 - HTML
 - CSS, Sass, styled-components
-- JavaScript, React
+- JavaScript, TypeScript, React
+- Node.js basics
  
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=rpavlenko&theme=cobalt2&show_icons=true">
