@@ -1,11 +1,12 @@
-# Hi, I'm Roman! 👋
+# Hi, I'm Roman, a junior web developer! 👋
 
-Currently I’m learning React, Node.js & TypeScript
+Currently I’m learning React & TypeScript.
 
 #### Languages and tools: 
 - HTML
-- CSS, Sass, styled-components
+- CSS, Sass, styled-components, Material UI, Tailwind
 - JavaScript, TypeScript, React
+- Redux (Redux Toolkit)
 - Node.js basics + MongoDB
  
 <hr>
