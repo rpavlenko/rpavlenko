@@ -4,7 +4,7 @@ Currently I’m learning React & TypeScript.
 
 #### Languages and tools: 
 - HTML
-- CSS, Sass, styled-components, Material UI, Tailwind
+- CSS, Sass, styled-components, MUI, Tailwind
 - JavaScript, TypeScript, React
 - Redux (Redux Toolkit)
 - Node.js basics + MongoDB
