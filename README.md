@@ -1,6 +1,6 @@
-# Hi, I'm Roman, a junior web developer! 👋
+# Hi, I'm Roman, a Front-end developer! 👋
 
-Currently I’m learning React & TypeScript.
+Currently, I’m learning React & TypeScript.
 
 #### Languages and tools: 
 - HTML
@@ -8,6 +8,7 @@ Currently I’m learning React & TypeScript.
 - JavaScript, TypeScript, React
 - Redux (Redux Toolkit)
 - Node.js basics + MongoDB
+- SQL
  
 <hr>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rpavlenko&theme=cobalt2&show_icons=true">
