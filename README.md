@@ -1,7 +1,5 @@
 # Hi, I'm Roman, a Front-end developer! 👋
 
-Currently, I’m learning React & TypeScript.
-
 #### Languages and tools: 
 - HTML
 - CSS, Sass, styled-components, MUI, Tailwind
